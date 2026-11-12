@@ -45,8 +45,6 @@ Still learning, constantly creating, and probably drinking coffee while doing it
   <img width="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
   <img width="30" src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg">
 
-  <br><br>
-
   <!-- Frontend Technologies -->
   <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
