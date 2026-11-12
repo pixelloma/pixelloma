@@ -12,7 +12,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<img align="right" src="./astro.png" width="280" alt="Astro Illustration"/>
+
 
 So here's the coffee ☕ I'm a Frontend Engineer student and UI/UX Designer, passionate about turning ideas into clean, interactive, and meaningful digital experiences.
 
