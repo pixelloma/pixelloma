@@ -29,11 +29,9 @@ Still learning, constantly creating, and probably drinking coffee while doing it
 <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
-<a href=""><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin"></a>
 <a href="https://www.instagram.com/ahl_am_a1"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram"></a>
 <a href=""><img src="https://img.shields.io/badge/dribbble-logo?style=for-the-badge&logo=dribbble&logoColor=white&color=%23ea64d9" alt="dribbble"></a>
-<a href=""><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium"></a>
-<a href=""><img src="https://img.shields.io/badge/gmail-logo?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="email"></a>
+<a href="ahlamgarah1@gmail.com"><img src="https://img.shields.io/badge/gmail-logo?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="email"></a>
 </p>
 
 <h2 align="center">💻 Tech Stack</h2>
